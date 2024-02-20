@@ -15,11 +15,12 @@
     ],
     "public": true,
     "targetVersions": {
-        "target": "1.12.47",
-        "targetId": "arcade"
+        "target": "1.7.28",
+        "targetId": "minecraft"
     },
     "supportedTargets": [
-        "arcade"
+        "arcade",
+        "minecraft"
     ],
     "preferredEditor": "blocksprj"
 }
